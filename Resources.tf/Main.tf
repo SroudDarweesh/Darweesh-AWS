@@ -25,3 +25,4 @@ resource "aws_subnet" "private" {
     Name = "Darweesh-Private-Subnet"
   }
 }
+# resource
